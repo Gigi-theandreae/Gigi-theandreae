@@ -8,7 +8,7 @@ ___
 <div>
 <h3>About Me:</h3>
 
-- 🔭  I’m currently working on a redesign of a restaurant website
+- 🔭  I’m currently working on networking app for 100Devs
 - 🌱 I’m currently learning **User Authentication with Passport**
 - 📫 How to reach me: [gizem.andreae@gmail.com](mailto:gizem.andreae@gmail.com)
 - ⚡ What else: 
