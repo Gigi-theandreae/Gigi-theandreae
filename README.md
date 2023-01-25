@@ -12,9 +12,7 @@ ___
 - 🌱 I’m currently learning **User Authentication with Passport**
 - 📫 How to reach me: [gizem.andreae@gmail.com](mailto:gizem.andreae@gmail.com)
 - ⚡ What else: 
-    I like sailing, skiing, travelling, 
-    reading and sniffing books, 
-    talking about aviation and Boston
+    I like sailing, skiing, travelling, sniffing books, talking about aviation and Boston
   </div>
     
 ___
