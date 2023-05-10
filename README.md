@@ -9,7 +9,7 @@ ___
 <h3>About Me:</h3>
 
 - 🔭  I’m currently working on networking app for 100Devs
-- 🌱 I’m currently learning **User Authentication with Passport**
+- 🌱 I’m currently learning **SQL**
 - 📫 How to reach me: [gizem.andreae@gmail.com](mailto:gizem.andreae@gmail.com)
 - ⚡ What else: 
     I like sailing, skiing, travelling, sniffing books, talking about aviation and Boston
